@@ -1,2 +1,2 @@
 all:
-	docker build . --tag nhnghia/doxygen-alpine
+	docker build . --tag nhnghia/doxygen
